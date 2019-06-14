@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include <string.h>
 
 //gets number of digits in ccNum
 int ccNumOfDigits(long ccNum)
