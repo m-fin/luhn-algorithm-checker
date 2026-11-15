@@ -1,0 +1,7 @@
+# Build outputs
+luhn
+*.o
+*.obj
+*.exe
+*.out
+a.out
